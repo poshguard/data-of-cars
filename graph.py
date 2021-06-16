@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[11]:
-
-
-
-import numpy as np 
-import pandas as pd 
-
-
-
 
 
 # In[12]:
